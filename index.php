@@ -16,7 +16,9 @@
 
 <?php
 
-
+$vnome =$_GET["f_nome"];
+$vsenha =$_GET["f_senha"];
+echo " meu nome é $vnome";
 
  
 
